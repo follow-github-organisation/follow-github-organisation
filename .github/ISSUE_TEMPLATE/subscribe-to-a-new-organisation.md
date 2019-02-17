@@ -7,5 +7,5 @@ assignees: followgithuborg
 
 ---
 
-## Paste the link of the GitHub organisation you want to follow and submit
+## Paste the link of the GitHub organisation below and submit
 https://github.com/golang
