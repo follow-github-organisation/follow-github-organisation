@@ -1,7 +1,7 @@
 ---
 name: Subscribe to a new organisation
 about: Here is how to follow a new organisation
-title: ''
+title: Subscribe to [GitHub Organisation Name]
 labels: ''
 assignees: followgithuborg
 
