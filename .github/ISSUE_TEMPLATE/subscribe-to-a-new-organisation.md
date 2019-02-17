@@ -9,3 +9,7 @@ assignees: followgithuborg
 
 ## Paste the link of the GitHub organisation below and submit
 https://github.com/golang
+
+---
+
+###### Please subscribe to this thread to get notified when a new repository is created
