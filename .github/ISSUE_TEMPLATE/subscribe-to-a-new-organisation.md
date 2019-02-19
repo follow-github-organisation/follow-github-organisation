@@ -12,6 +12,4 @@ https://github.com/golang
 
 ---
 
-###### GitHub has flagged the account of @followgithuborg, you will not be able to see the comments made by it.
-
 ###### Please subscribe to this thread to get notified when a new repository is created
