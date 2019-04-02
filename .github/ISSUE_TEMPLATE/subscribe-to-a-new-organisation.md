@@ -13,3 +13,7 @@ https://github.com/golang
 ---
 
 ###### Please subscribe to this thread to get notified when a new repository is created
+
+---
+
+###### Please star the project if you find it helpful and share it in the wild
