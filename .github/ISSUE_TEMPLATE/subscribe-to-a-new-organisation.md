@@ -1,6 +1,6 @@
 ---
 name: Subscribe to a new organisation
-about: Looking for an easy way? Check out [followgithub.org](followgithub.org?ref=new-issue-selection)
+about: Looking for an easy way? Check out followgithub.org
 title: Subscribe to [GitHub Organisation Name]
 labels: ''
 assignees: followgithuborg
@@ -11,7 +11,7 @@ assignees: followgithuborg
 https://github.com/golang
 
 ---
-###### Looking for an easy way? Check out [followgithub.org](followgithub.org?ref=new-issue-creation)
+###### Looking for an easy way? Check out followgithub.org
 ###### Please subscribe to this thread to get notified when a new repository is created
 
 ---
