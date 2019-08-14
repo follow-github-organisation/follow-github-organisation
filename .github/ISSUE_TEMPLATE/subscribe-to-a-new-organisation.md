@@ -11,9 +11,10 @@ assignees: followgithuborg
 https://github.com/golang
 
 ---
-###### Looking for an easy way? Check out followgithub.org
+
 ###### Please subscribe to this thread to get notified when a new repository is created
 
 ---
+# Looking for an easy way? Check out [followgithub.org](https://followgithub.org)
 
 ###### Please :star: the project if you find it helpful and share it in the wild
